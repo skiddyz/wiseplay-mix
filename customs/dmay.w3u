@@ -1,0 +1,39 @@
+{
+	"name": "SKIDDY'S WISEPLAY [+Japan Channnel]",
+	"author": "skiddy1337",
+	"image": "https://i.pinimg.com/1200x/24/eb/c7/24ebc7943f44a61bccbc0995074f69d6.jpg",
+	"url": "https://bit.ly/skiddywise",
+	"info": "✨สำหรับคนพิเศษ และเสพติดความเป็นญี่ปุ่น",
+	"groups": [
+		{
+			"name": "❗กดก่อน 1 ครั้ง❗",
+			"image": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/Assets/logo/%E0%B8%81%E0%B8%94%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B8%B9.png",
+			"url": "https://bit.ly/skiddywise"
+		},
+		{
+			"name": "🏈SPORTS",
+			"author": "skiddy1337",
+			"image": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/Assets/logo/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2.png",
+			"groups": [
+				{
+					"name": "🔴ค่ายแดง | More Sports channel Soon",
+					"image": "https://github.com/skiddyz/skiddyviews/blob/main/tv/Assets/logo/sports/truesports.png?raw=true",
+					"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/KINGOFSPORT.m3u",
+					"import": "true"
+				},
+				{
+					"name": "🟢ค่ายเขียว",
+					"image": "https://github.com/skiddyz/skiddyviews/blob/main/tv/Assets/logo/sports/ais%20sport.png?raw=true",
+					"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/Green%20Sport.m3u",
+					"import": "true"
+				},
+				{
+					"name": "🎳🏈ช่องกีฬาต่างประเทศ",
+					"image": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/Assets/logo/sports/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8.png",
+					"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/world%20sports.m3u",
+					"import": "true"
+				}
+			]
+		}
+	]
+}
