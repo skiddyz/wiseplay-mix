@@ -1,1 +1,13 @@
-
+{
+    "name": "🏈NFL",
+    "author": "skiddy1337",
+    "image": "https://i.pinimg.com/originals/8a/89/37/8a893765d44f23e4f2cec145d98f840b.gif",
+    "stations": [
+    {
+      "name": "กำลังแก้",
+      "image": "",
+      "url": "https://kenitv.me/1e6420ee-e984-42a7-a1a0-e45f0fd1f8cd"
+    }
+  ]
+}
+   
