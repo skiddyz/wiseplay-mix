@@ -1,121 +1,36 @@
 {
-    "name": "🏈NFL",
-    "author": "skiddy1337",
-    "image": "https://i.pinimg.com/originals/8a/89/37/8a893765d44f23e4f2cec145d98f840b.gif",
-    "stations": [
-        {
-          "name": "ตารางแข่ง NFL 2024/25 สัปดาห์ที่ 2 ทุกคู่ (ตารางตามประเทศไทย)",
-          "image": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/Assets/logo/nfl.png",
-          "stations": [
-        {
-          "name": "[TrueVision] Thursday 13 September 07:15 AM - Buffalo Bills Vs Miami Dolphins",
-          "image": "https://i.ytimg.com/vi/mW4XaCt2qiE/maxresdefault.jpg",
-          "url": "https://dookeela.live/live-tv/tsp1",
-          "referer": "https://dookeela.live/"
-        },
-        {
-          "name": "[Waiting...] Monday 16 September 00:00 AM - Dallas Cowboys Vs New Orleans Saints",
-          "image": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/cowboys/fcufeeo25e8hzdptkrgo",
-          "url": ""
-        },
-        {
-          "name": "[TrueVision] Monday 16 September 00:00 AM - Detroit Lions Vs Tampa Bay Buccaneers",
-          "image": "https://cdn.bucsreport.com/wp-content/uploads/2020/12/received_2882245355392589.jpeg",
-          "url": "https://dookeela.live/live-tv/tsp1",
-          "referer": "https://dookeela.live/"
-        },
-        {
-          "name": "[Waiting...] Monday 16 September 00:00 AM - Minnesota Vikings Vs San Francisco 49ers",
-          "image": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/vikings/vji9smxask20tjh7xxkz",
-          "url": ""
-        },
-        {
-          "name": "[Waiting...] Monday 16 September 00:00 AM - New England Patriots Vs Seattle Seahawks",
-          "image": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/patriots/d6s9tsrgrxdaqfqxywjn",
-          "url": ""
-        },
-        {
-          "name": "[Waiting...] Monday 16 September 00:00 AM - Green Bay Packers Vs Indianapolis Colts",
-          "image": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/fpbujqgojj8meypesqwk",
-          "url": ""
-        },
-        {
-          "name": "[Waiting...] Monday 16 September 00:00 AM - Carolina Panthers Vs Los Angeles Chargers",
-          "image": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/chargers/n5kjutvvd3swayqp9dzf",
-          "url": ""
-        },
-        {
-          "name": "[Waiting...] Monday 16 September 00:00 AM - Washington Commanders Vs New York Giants",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNSWREtMhF01a_6HCaJYhEepvmpK8DSZxoMw&s",
-          "url": ""
-        },
-        {
-          "name": "[Waiting... ] Monday 16 September 00:00 AM - Baltimore Ravens Vs Las Vegas Raiders",
-          "image": "https://admin.bangthebook.com/wp-content/uploads/2024/03/Baltimore-Ravens-vs.-Las-Vegas-Raiders-e1631389898227.jpg",
-          "url": ""
-        },
-        {
-          "name": "[Waiting...] Monday 16 September 00:00 AM - Tennessee Titans Vs New York Jets",
-          "image": "https://i.ytimg.com/vi/RPPRUPZGA4k/maxresdefault.jpg",
-          "url": ""
-        },
-        {
-          "name": "[Waiting...] Monday 16 September 00:00 AM - Jacksonville Jaguars Vs Cleveland Browns",
-          "image": "https://www.cordeledispatch.com/wp-content/uploads/sites/56/2024/07/jacksonville-jaguars-vs-cleveland-browns-week-2-tickets-available-sunday-september-15-at-everbank-stadium.jpg",
-          "url": ""
-        },
-        {
-          "name": "[Waiting...] Monday 16 September 03:05 AM - Arizona Cardinals Vs Los Angeles Rams",
-          "image": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/rams/dhsraibdaqzg4gakppey",
-          "url": ""
-        },
-        {
-          "name": "[Waiting...] Monday 16 September 03:25 AM - Denver Broncos Vs Pittsburgh Steelers",
-          "image": "https://steelersdepot.com/wp-content/uploads/2020/09/steelers-broncos.jpg",
-          "url": ""
-        },
-        {
-          "name": "[Waiting...] Monday 16 September 03:25 AM - Kansas City Chiefs Vs Cincinnati Bengals",
-          "image": "https://www.lineups.com/wp-content/uploads/2019/07/chiefs-vs-bengals.jpg",
-          "url": ""
-        },
-        {
-          "name": "[TrueVision] Monday 16 September 07:20 AM - Houston Texans Vs Chicago Bears",
-          "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F780382689%2F151662214713%2F1%2Foriginal.20240531-153838?w=600&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C22%2C782%2C391&s=d1da9bf6bf8fcb259fe9f42300809202",
-          "url": "https://dookeela.live/live-tv/tsp1",
-          "referer": "https://dookeela.live/"
-        },
-        {
-          "name": "[TrueVision] Tuesday 17 September 07:15 AM - Philadelphia Eagles Vs Atlanta Falcons",
-          "image": "https://www.selmatimesjournal.com/wp-content/uploads/sites/22/2024/07/atlanta-falcons-vs-philadelphia-eagles-week-2-tickets-available-monday-september-16-at-lincoln-financial-field.jpg",
-          "url": "https://dookeela.live/live-tv/tsp1",
-          "referer": "https://dookeela.live/"
-        }      
-      ]
-    },
-    {
-      "name": "ESPN",
-      "image": "https://dookeela.live/uploads/1698197339.png",
-      "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=us-espn1&api_key=xjA7kf1WXmzK",
-      "referer": "https://dooball66x.com/"
-    },
-    {
-      "name": "TrueSport 1",
-      "image": "https://dookeela.live//uploads/1664802455.png",
-      "url": "https://dookeela.live/live-tv/tsp1",
-      "referer": "https://dookeela.live/"
-    },
-    {
-      "name": "NFL Network",
-      "image": "https://dookeela.live//uploads/1694909293.png",
-      "url": "https://dookeela.live/live-tv/nfl",
-      "referer": "https://dookeela.live/"
-    },
-    {
-      "name": "NFL NOW",
-      "image": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/Assets/logo/sports/nfln.png",
-      "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=us-nflnow&api_key=xjA7kf1WXmzK",
-      "referer": "https://dooball66x.com/"
-    }
-  ]
+  "name": "🏈NFL",
+  "author": "skiddy1337",
+  "image": "https://i.pinimg.com/originals/8a/89/37/8a893765d44f23e4f2cec145d98f840b.gif",
+  "stations": [
+  {
+    "name": "ตารางแข่ง NFL 2024/25 สัปดาห์ที่ 2 ทุกคู่ (ตารางตามประเทศไทย)",
+    "image": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/Assets/logo/nfl.png",
+    "url": "https://raw.githubusercontent.com/skiddyz/wiseplay-mix/main/schedule/NFL.w3u"
+  },
+  {
+    "name": "ESPN",
+    "image": "https://dookeela.live/uploads/1698197339.png",
+    "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=us-espn1&api_key=xjA7kf1WXmzK",
+    "referer": "https://dooball66x.com/"
+  },
+  {
+    "name": "TrueSport 1",
+    "image": "https://dookeela.live//uploads/1664802455.png",
+    "url": "https://dookeela.live/live-tv/tsp1",
+    "referer": "https://dookeela.live/"
+  },
+  {
+    "name": "NFL Network",
+    "image": "https://dookeela.live//uploads/1694909293.png",
+    "url": "https://dookeela.live/live-tv/nfl",
+    "referer": "https://dookeela.live/"
+  },
+  {
+    "name": "NFL NOW",
+    "image": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/Assets/logo/sports/nfln.png",
+    "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=us-nflnow&api_key=xjA7kf1WXmzK",
+    "referer": "https://dooball66x.com/"
+  }
+]
 }
