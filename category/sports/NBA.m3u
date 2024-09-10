@@ -1,1 +1,36 @@
+{
+    "name": "🏈NBA",
+    "author": "skiddy1337",
+    "image": "https://i.pinimg.com/originals/8a/89/37/8a893765d44f23e4f2cec145d98f840b.gif",
+    "groups": [
+        {
+          "name": "ตารางแข่ง NBA 2024/25 ทุกคู่ (ตารางตามประเทศไทย)",
+          "image": "https://dookeela.live/uploads/1664532126.png",
+          "groups": [
+        {
+          "name": "เร็วๆนี้",
+          "image": ""
+        }     
+      ]
+    },
+    {
+      "name": "NBA TV",
+      "image": "https://dookeela.live//uploads/1664532126.png",
+      "url": "https://dookeela.live/live-tv/nba",
+      "referer": "https://dookeela.live/"
+    },
+    {
+      "name": "ESPN",
+      "image": "https://dookeela.live/uploads/1698197339.png",
+      "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=us-espn1&api_key=xjA7kf1WXmzK",
+      "referer": "https://dooball66x.com/"
+    },
+    {
+      "name": "TrueSport 1",
+      "image": "https://dookeela.live//uploads/1664802455.png",
+      "url": "https://dookeela.live/live-tv/tsp1",
+      "referer": "https://dookeela.live/"
+    }
+  ]
+}
 
