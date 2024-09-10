@@ -6,7 +6,7 @@
         {
           "name": "ตารางแข่ง NFL 2024/25 สัปดาห์ที่ 2 ทุกคู่ (ตารางตามประเทศไทย)",
           "image": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/Assets/logo/nfl.png",
-          "groups": [
+          "stations": [
         {
           "name": "[TrueVision] Thursday 13 September 07:15 AM - Buffalo Bills Vs Miami Dolphins",
           "image": "https://i.ytimg.com/vi/mW4XaCt2qiE/maxresdefault.jpg",
