@@ -3,38 +3,15 @@
     "author": "skiddy1337",
     "image": "https://i.pinimg.com/originals/8a/89/37/8a893765d44f23e4f2cec145d98f840b.gif",
     "groups": [
-    {
-      "name": "ESPN",
-      "image": "https://dookeela.live/uploads/1698197339.png",
-      "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=us-espn1&api_key=xjA7kf1WXmzK",
-      "referer": "https://dooball66x.com/"
-    },
-    {
-      "name": "TrueSport 1",
-      "image": "https://dookeela.live//uploads/1664802455.png",
-      "url": "https://dookeela.live/live-tv/tsp1",
-      "referer": "https://dookeela.live/"
-    },
-    {
-      "name": "NFL Network",
-      "image": "https://dookeela.live//uploads/1694909293.png",
-      "url": "https://dookeela.live/live-tv/nfl",
-      "referer": "https://dookeela.live/"
-    },
-    {
-      "name": "NFL NOW",
-      "image": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/Assets/logo/sports/nfln.png",
-      "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=us-nflnow&api_key=xjA7kf1WXmzK",
-      "referer": "https://dooball66x.com/"
-    },
-    {
-      "name": "ตารางแข่ง NFL ทุกคู่",
-      "image": "https://dookeela.live//uploads/1694909293.png",
-      "groups": [
+        {
+          "name": "ตารางแข่ง NFL ทุกคู่",
+          "image": "https://dookeela.live//uploads/1694909293.png",
+          "groups": [
         {
           "name": "Thursday 13 September 07:15 AM - Buffalo Bills Vs Miami Dolphins",
           "image": "https://i.ytimg.com/vi/mW4XaCt2qiE/maxresdefault.jpg",
-          "url": ""
+          "url": "https://dookeela.live/live-tv/tsp1",
+          "referer": "https://dookeela.live/"
         },
         {
           "name": "Monday 16 September 00:00 AM - Dallas Cowboys Vs New Orleans Saints",
@@ -44,7 +21,8 @@
         {
           "name": "Monday 16 September 00:00 AM - Detroit Lions Vs Tampa Bay Buccaneers",
           "image": "https://cdn.bucsreport.com/wp-content/uploads/2020/12/received_2882245355392589.jpeg",
-          "url": ""
+          "url": "https://dookeela.live/live-tv/tsp1",
+          "referer": "https://dookeela.live/"
         },
         {
           "name": "Monday 16 September 00:00 AM - Minnesota Vikings Vs San Francisco 49ers",
@@ -104,15 +82,40 @@
         {
           "name": "Monday 16 September 07:20 AM - Houston Texans Vs Chicago Bears",
           "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F780382689%2F151662214713%2F1%2Foriginal.20240531-153838?w=600&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C22%2C782%2C391&s=d1da9bf6bf8fcb259fe9f42300809202",
-          "url": ""
+          "url": "https://dookeela.live/live-tv/tsp1",
+          "referer": "https://dookeela.live/"
         },
         {
           "name": "Tuesday 17 September 07:15 AM - Philadelphia Eagles Vs Atlanta Falcons",
           "image": "https://www.selmatimesjournal.com/wp-content/uploads/sites/22/2024/07/atlanta-falcons-vs-philadelphia-eagles-week-2-tickets-available-monday-september-16-at-lincoln-financial-field.jpg",
-          "url": ""
+          "url": "https://dookeela.live/live-tv/tsp1",
+          "referer": "https://dookeela.live/"
         }      
       ]
+    },
+    {
+      "name": "ESPN",
+      "image": "https://dookeela.live/uploads/1698197339.png",
+      "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=us-espn1&api_key=xjA7kf1WXmzK",
+      "referer": "https://dooball66x.com/"
+    },
+    {
+      "name": "TrueSport 1",
+      "image": "https://dookeela.live//uploads/1664802455.png",
+      "url": "https://dookeela.live/live-tv/tsp1",
+      "referer": "https://dookeela.live/"
+    },
+    {
+      "name": "NFL Network",
+      "image": "https://dookeela.live//uploads/1694909293.png",
+      "url": "https://dookeela.live/live-tv/nfl",
+      "referer": "https://dookeela.live/"
+    },
+    {
+      "name": "NFL NOW",
+      "image": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/Assets/logo/sports/nfln.png",
+      "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=us-nflnow&api_key=xjA7kf1WXmzK",
+      "referer": "https://dooball66x.com/"
     }
   ]
 }
-   
