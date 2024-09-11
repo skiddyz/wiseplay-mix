@@ -4,11 +4,6 @@
   "image": "https://i.pinimg.com/originals/8a/89/37/8a893765d44f23e4f2cec145d98f840b.gif",
   "stations": [
   {
-    "name": "ตารางแข่ง NFL 2024/25 สัปดาห์ที่ 2 ทุกคู่ (ตารางตามประเทศไทย)",
-    "image": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/Assets/logo/nfl.png",
-    "url": "https://raw.githubusercontent.com/skiddyz/wiseplay-mix/main/schedule/NFL.w3u"
-  },
-  {
     "name": "ESPN",
     "image": "https://dookeela.live/uploads/1698197339.png",
     "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=us-espn1&api_key=xjA7kf1WXmzK",
